@@ -1,5 +1,5 @@
 # TextToSpeech
-## Text to speech android application which takes audio as input convert it to text and searches it on Google.
+## Speech to Text android application which takes audio as input convert it to text and searches it on Google.
 ### implement speech to text functionality in android. To enable our app to use speech to text i used the SpeechRecognizer class.
 
 
